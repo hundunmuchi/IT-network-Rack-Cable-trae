@@ -1,0 +1,78 @@
+# ===== Dependencies =====
+vendor/
+node_modules/
+bower_components/
+
+# ===== PHP Binary Distribution (download separately) =====
+_tools/php74/
+
+# ===== Database (regenerate via seed scripts) =====
+*.sqlite
+*.sqlite-journal
+*.db
+
+# ===== Environment & Secrets =====
+.env
+.env.local
+.env.*.local
+
+# ===== Logs =====
+logs/
+*.log
+storage/logs/
+
+# ===== Cache & Temp =====
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+bootstrap/cache/
+*.cache
+.tmp/
+tmp/
+_temp/
+
+# ===== Runtime PID files =====
+_tools/run/
+*.pid
+pids.txt
+
+# ===== Composer =====
+composer.phar
+_tools/composer-home/cache/
+
+# ===== OS / Editor =====
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== LibreNMS specific =====
+LibreNMS-offline/src/lnms/vendor/
+LibreNMS-offline/src/lnms/rrd/
+LibreNMS-offline/src/lnms/bootstrap/cache/*.php
+LibreNMS-offline/src/lnms/storage/framework/cache/*
+!LibreNMS-offline/src/lnms/storage/framework/cache/.gitignore
+LibreNMS-offline/src/lnms/storage/logs/*
+!LibreNMS-offline/src/lnms/storage/logs/.gitignore
+
+# ===== APT simulation (download metadata) =====
+_tools/*.txt
+_tools/*.gz
+_tools/*.py
+
+# ===== Binary archives (download separately) =====
+*.tar.gz
+*.zip
+*.deb
+*.tar
+*.tgz
+
+# ===== LibreNMS OS repo packages =====
+LibreNMS-offline/osrepo/
+
+# ===== Local docs draft =====
+.trae/documents/

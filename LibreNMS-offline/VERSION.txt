@@ -1,0 +1,21 @@
+LibreNMS 麒麟桌面 V10 SP1 完全离线部署包
+========================================
+LibreNMS 版本 : 22.10.0（最后支持 PHP 7.4 的稳定版）
+目标系统      : 麒麟桌面版 V10 SP1（deb 系），Hygon C86-3G（x86_64），内核 5.4.18-110-generic
+源码 SHA256   : CAF1F5B21F77932BBEEAC93B7330436F4F3A90808FB7DD04823A4D2BEB51CAC3
+软件源来源    : http://archive.kylinos.cn/kylin/KYLIN-ALL 10.1 (main + universe)
+离线软件包    : 320 个 .deb（含本地 Packages 索引 + SHA256SUMS）
+PHP 依赖      : vendor/ 110 个包（Windows 端用 PHP 7.4.33 + composer 生成）
+封装生成时间  : 2026-09-29（全程 Windows 端构建，目标机离线可用）
+
+目录说明
+----------------------------------------
+src/lnms              LibreNMS 22.10.0 程序源码 + vendor/（PHP 依赖已封装）
+src/composer.phar     内置 Composer（备用）
+osrepo/debs           离线 deb 仓库：320 个 .deb + Packages/Packages.gz + SHA256SUMS
+scripts/preflight_check.sh                目标机：部署前预检
+scripts/stage2_deploy_offline.sh          目标机：离线一键部署
+scripts/selfcheck.sh                      部署后自检
+scripts/stage1_build_offline_package.sh   备用：在联网的同款麒麟机上重建 osrepo/
+config/lnms/*         配置参考模板（nginx / php-fpm / config.php）
+logs/                 运行日志（stage2/selfcheck 生成）

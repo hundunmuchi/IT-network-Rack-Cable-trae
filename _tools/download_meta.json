@@ -1,0 +1,1602 @@
+{
+ "adduser": {
+  "basename": "adduser_3.118kylin2k7_all.deb",
+  "sha256": "43caa7457eac38e4f1c9b7f1601afc1826fc247bd3d8fa1d9dc8fd20335d1bd7",
+  "ok": true
+ },
+ "adwaita-icon-theme": {
+  "basename": "adwaita-icon-theme_3.36.0-1kylin1_all.deb",
+  "sha256": "136691f085899edd421f8b30092d0c7bb52829e8d09eec2c28e1a0d88878183c",
+  "ok": true
+ },
+ "ca-certificates": {
+  "basename": "ca-certificates_20210119~20.04.2_all.deb",
+  "sha256": "5d86d02169f489ca65eeba877c5fa03d0f7016dd020cd6c90d452bbd5256f843",
+  "ok": true
+ },
+ "coreutils": {
+  "basename": "coreutils_8.30-3kylin2_amd64.deb",
+  "sha256": "035d22cffb98bcd4dfb73f6626ef0d9ba977fe0adaa8ab6a13b4824fb0d577d1",
+  "ok": true
+ },
+ "cron": {
+  "basename": "cron_3.0pl1-136kylin1_amd64.deb",
+  "sha256": "94d5f89452fcd241a31fe5eb40088f128f4713d6bc4b578c14da17aa6eb3b524",
+  "ok": true
+ },
+ "dbus": {
+  "basename": "dbus_1.12.16-2kylin2.1_amd64.deb",
+  "sha256": "fa93ca07352cf4c295169e5b8a67e9078b1bab81872d188c5d46dc54d6b607a5",
+  "ok": true
+ },
+ "debconf": {
+  "basename": "debconf_1.5.73_all.deb",
+  "sha256": "f488cad7c0e96924c2bef76caa91a462c9b46d0fdd8e1843175b261496eba20f",
+  "ok": true
+ },
+ "debianutils": {
+  "basename": "debianutils_4.9.1_amd64.deb",
+  "sha256": "1a77b1c791bf4ff4e2fe43eb25e058676e487e8cdc2d9fb359b4a24783b22abf",
+  "ok": true
+ },
+ "dpkg": {
+  "basename": "dpkg_1.19.7kylin3k10.3_amd64.deb",
+  "sha256": "45ee4bd8f1803643af3577ae06680a714e8ef1d058d523f75eddc723735b0e93",
+  "ok": true
+ },
+ "fontconfig": {
+  "basename": "fontconfig_2.13.1-2kylin3_amd64.deb",
+  "sha256": "09ab23d61ba3cb8ae39f356a805ad3352aeda5290d5551a316a1868cc871ca1c",
+  "ok": true
+ },
+ "fontconfig-config": {
+  "basename": "fontconfig-config_2.13.1-2kylin3_all.deb",
+  "sha256": "b9895f90f3405c52463ceb729564a17a4c197ced99416ecfc25042e4f276b476",
+  "ok": true
+ },
+ "fonts-dejavu-core": {
+  "basename": "fonts-dejavu-core_2.37-1_all.deb",
+  "sha256": "915cbd4e0c66ceae408c908586da26764b0008ce76224f7be77e1208ea33be06",
+  "ok": true
+ },
+ "fping": {
+  "basename": "fping_4.2-1_amd64.deb",
+  "sha256": "00c71a8d0f011c408de97b3d5c76ad01ab4dd230bd46532a2158a13a8eb558c3",
+  "ok": true
+ },
+ "galera-3": {
+  "basename": "galera-3_25.3.29-1_amd64.deb",
+  "sha256": "4babbe6cd894b6f9cb3595f7e9cfc1eba2ba1d4aa9eaeb6660915cd3b7e3637c",
+  "ok": true
+ },
+ "gawk": {
+  "basename": "gawk_5.0.1+dfsg-1_amd64.deb",
+  "sha256": "d1cc53f1dc2a87cf8afbe598121d5c12a2f6ef5808172625b411a5bd3b0b8c6d",
+  "ok": true
+ },
+ "gcc-10-base": {
+  "basename": "gcc-10-base_10.3.0-1kylin1~20.04_amd64.deb",
+  "sha256": "4698e3555aec73e41f833dad096d184f0e1765fe372d41dad87ce733d361cd00",
+  "ok": true
+ },
+ "git": {
+  "basename": "git_2.25.1-1kylin3.2_amd64.deb",
+  "sha256": "5e72af9977d3ffedb8cb1e4e65273e498fac6dabec66c1f489f10c70c72838d8",
+  "ok": true
+ },
+ "git-man": {
+  "basename": "git-man_2.25.1-1kylin3.2_all.deb",
+  "sha256": "8d212e1541e2f636932d347234623599e925ecbd65cd92822c79d86a34a143b6",
+  "ok": true
+ },
+ "gtk-update-icon-cache": {
+  "basename": "gtk-update-icon-cache_3.24.23-1kylin2k10_amd64.deb",
+  "sha256": "1bfdfa5b83144d6557fa3c25cb63c36c57938466d088e54aa2ecf6ffdac6cca9",
+  "ok": true
+ },
+ "hicolor-icon-theme": {
+  "basename": "hicolor-icon-theme_0.17-2_all.deb",
+  "sha256": "4812fc7d35404ceebdef7cf88e284df3942f7306493d3636e2c09a33cee23df6",
+  "ok": true
+ },
+ "humanity-icon-theme": {
+  "basename": "humanity-icon-theme_0.6.15_all.deb",
+  "sha256": "3ad204a7d2bc3fcad51271f86afb953637db90447a6c5c29f6ae405ac8d3ce0a",
+  "ok": true
+ },
+ "imagemagick": {
+  "basename": "imagemagick_6.9.10.23+dfsg-2.1kylin11.4_amd64.deb",
+  "sha256": "6e6a6600c04185cb2ee367b6e5025f52117f55b814b17dce8784e9f4a0f58dae",
+  "ok": true
+ },
+ "imagemagick-6-common": {
+  "basename": "imagemagick-6-common_6.9.10.23+dfsg-2.1kylin11.4_all.deb",
+  "sha256": "d2302d45c8bedb1aab2c338ec5ea8d0e9ef0148c2f3e8125dda10a0c9bf45fc7",
+  "ok": true
+ },
+ "imagemagick-6.q16": {
+  "basename": "imagemagick-6.q16_6.9.10.23+dfsg-2.1kylin11.4_amd64.deb",
+  "sha256": "b4434967bee9efeb80cbb3755ee6a3c6523f95464eaff8f7862112073726fa9d",
+  "ok": true
+ },
+ "init-system-helpers": {
+  "basename": "init-system-helpers_1.57_all.deb",
+  "sha256": "124e8111be27bc904a5c4e5bcd980f3325264afa40e75cf50a52e1c3152ee2a6",
+  "ok": true
+ },
+ "iproute2": {
+  "basename": "iproute2_5.5.0-1kylin1_amd64.deb",
+  "sha256": "f8d10dc4b164d72ffb45c2f563b5ddb37e09eb1782b8a98b038c251317c481c9",
+  "ok": true
+ },
+ "kysec-daemon": {
+  "basename": "kysec-daemon_1.0.3-14kylin_amd64.deb",
+  "sha256": "34a3200eccd4c21a4cad350b6db3c9e9e4a25d0f4f98d189e613643a40209177",
+  "ok": true
+ },
+ "kyseclog-daemon": {
+  "basename": "kyseclog-daemon_1.0.1-18kylin_amd64.deb",
+  "sha256": "f96b64d57de0e6dfa400301eef2cf95019f33a647fa602309627fda1fc1d12b2",
+  "ok": true
+ },
+ "libacl1": {
+  "basename": "libacl1_2.2.53-6_amd64.deb",
+  "sha256": "5076b8bea2cd567069ab60f055e352cc4f6e160f6e30dfab243efa2466f04801",
+  "ok": true
+ },
+ "libaio1": {
+  "basename": "libaio1_0.3.112-5kylin0k1_amd64.deb",
+  "sha256": "81ea91eb6ce341e80307f40f0bc97359474c06ff2d7a67639cd3ebe8ac0a9b22",
+  "ok": true
+ },
+ "libapparmor1": {
+  "basename": "libapparmor1_2.13.3-7kylin5.1k4_amd64.deb",
+  "sha256": "fb372604244000054e91bb88a47a930467873c8f2f7b8f1eba0ad1ea5274f81f",
+  "ok": true
+ },
+ "libargon2-1": {
+  "basename": "libargon2-1_0~20171227-0.2_amd64.deb",
+  "sha256": "478fd9b581ab72f1c9663c7a23143b39cc040e553e41f602358b249ba5c173a3",
+  "ok": true
+ },
+ "libasn1-8-heimdal": {
+  "basename": "libasn1-8-heimdal_7.7.0+dfsg-1kylin1_amd64.deb",
+  "sha256": "c3573675eecd5c7cd50432ad1e2642c3d94484f99cfefe4c94de87fd9502d5a5",
+  "ok": true
+ },
+ "libatk1.0-0": {
+  "basename": "libatk1.0-0_2.35.1-1kylin2_amd64.deb",
+  "sha256": "096eaf20876ee2ff0686cb558dfcf8efbf8680734d8e1f383bdd1c56536506a5",
+  "ok": true
+ },
+ "libatk1.0-data": {
+  "basename": "libatk1.0-data_2.35.1-1kylin2_all.deb",
+  "sha256": "bf85e0e17ca8c465457a86261850e56b7a253a00a824259b8c8bdde662e553c8",
+  "ok": true
+ },
+ "libattr1": {
+  "basename": "libattr1_2.4.48-5_amd64.deb",
+  "sha256": "0403a5c71b32fdafccb974807f529e3d9f40627860a1d6dc25304b304f1d8d10",
+  "ok": true
+ },
+ "libaudit-common": {
+  "basename": "libaudit-common_2.8.5-2kylin6k6_all.deb",
+  "sha256": "6d17eabd9412aaa5143ace456174e1784a5bac330c315b387094b837b685fc32",
+  "ok": true
+ },
+ "libaudit1": {
+  "basename": "libaudit1_2.8.5-2kylin6k6_amd64.deb",
+  "sha256": "49cc9f364aab2942f5331ea9162e86a4c91d93f74d6bcccfd3fcf656bf157a08",
+  "ok": true
+ },
+ "libavahi-client3": {
+  "basename": "libavahi-client3_0.7-4kylin7.1_amd64.deb",
+  "sha256": "11e52ee951789470a2718c6d97136273828becefc35305df3ea05d5bce7ec369",
+  "ok": true
+ },
+ "libavahi-common-data": {
+  "basename": "libavahi-common-data_0.7-4kylin7.1_amd64.deb",
+  "sha256": "92f4850dddaa5721d63e8eace66b04eb86780d4ce7e93587575cb372f7a84fbe",
+  "ok": true
+ },
+ "libavahi-common3": {
+  "basename": "libavahi-common3_0.7-4kylin7.1_amd64.deb",
+  "sha256": "22339fcbe09ea33caf946f669913f8789b1ab28192cd582d0c3948af92a78b56",
+  "ok": true
+ },
+ "libblkid1": {
+  "basename": "libblkid1_2.34-0.1kylin16~rc1_amd64.deb",
+  "sha256": "ecfec9f0ec5a73c481ff0e91f3a839c941b3ac9f4d865492c3ba8be9618a47c1",
+  "ok": true
+ },
+ "libbrotli1": {
+  "basename": "libbrotli1_1.0.7-6kylin0.1_amd64.deb",
+  "sha256": "bb75d19bed690c3c06c8a46e58ef1bff87995c5973811e285ea8441869ff3a22",
+  "ok": true
+ },
+ "libbsd0": {
+  "basename": "libbsd0_0.10.0-1kylin0k1_amd64.deb",
+  "sha256": "414f95b1cca2410c2c84b871761e71c78b4821dfcdeb53384622ab27e4b07a59",
+  "ok": true
+ },
+ "libbz2-1.0": {
+  "basename": "libbz2-1.0_1.0.8-2_amd64.deb",
+  "sha256": "4286ff495cad6632077d8866a1f213d8f55944da3da0870582ea96085a8a02f6",
+  "ok": true
+ },
+ "libc6": {
+  "basename": "libc6_2.31-0kylin9.1k20.3_amd64.deb",
+  "sha256": "c39ca3d7a13153b3a67fe2089941f2a6de35d1c4b53c5b7cf18bc0cea54bda1f",
+  "ok": true
+ },
+ "libcairo2": {
+  "basename": "libcairo2_1.16.0-4kylin1_amd64.deb",
+  "sha256": "e69a191b06fe09b92cbc1b603891c5e9e055fc501d710a7b167463c66c3fd8d7",
+  "ok": true
+ },
+ "libcap-ng0": {
+  "basename": "libcap-ng0_0.7.9-2.1build1kylin0_amd64.deb",
+  "sha256": "0dd4956ede8ea8bbf8fcbd8121371484bffc97e2ba7982be62d3504298ac8baf",
+  "ok": true
+ },
+ "libcap2": {
+  "basename": "libcap2_2.32-1_amd64.deb",
+  "sha256": "2e1af72b55e25613e826d166e87fbc7622c210928af03528299dbf478fc65bd8",
+  "ok": true
+ },
+ "libcap2-bin": {
+  "basename": "libcap2-bin_2.32-1_amd64.deb",
+  "sha256": "cb6f2081203f4618525e685d4a288f2c02d90a365d189c93707baf6075104a0e",
+  "ok": true
+ },
+ "libchkuid": {
+  "basename": "libchkuid_1.0.10kylin1_amd64.deb",
+  "sha256": "a8ad27c770e49558da94be8a184e5e632d851ca8682296a4da29f8cbd5c1ca16",
+  "ok": true
+ },
+ "libcom-err2": {
+  "basename": "libcom-err2_1.45.5-2kylin2k1_amd64.deb",
+  "sha256": "7a3a1829ef1cb88ca0b6670a11d682c8b7608c49888b723b0216ad631ae87766",
+  "ok": true
+ },
+ "libconfig-inifiles-perl": {
+  "basename": "libconfig-inifiles-perl_3.000002-1_all.deb",
+  "sha256": "6de6ae0ba58eb3e33c6f5efd88550a0784a37657af3062605b05675be20e1f05",
+  "ok": true
+ },
+ "libconfig9": {
+  "basename": "libconfig9_1.5-0.4build1_amd64.deb",
+  "sha256": "36306caa34252601c50dd00b6e15927b4cb0cdceefca8ee782fb37a26fecb96f",
+  "ok": true
+ },
+ "libcrack2": {
+  "basename": "libcrack2_2.9.6-3.2kylin2_amd64.deb",
+  "sha256": "71eed58759b4df84a0e80d59d02953b7e30c2bb343d4eafb52bb3257ecb91895",
+  "ok": true
+ },
+ "libcrypt1": {
+  "basename": "libcrypt1_4.4.10-10kylin4k3_amd64.deb",
+  "sha256": "e0825477b2b74fc7a79393ec15bcaf062867972eb159b94126891347a2119dff",
+  "ok": true
+ },
+ "libcryptsetup12": {
+  "basename": "libcryptsetup12_2.2.2-3kylin2.2k4_amd64.deb",
+  "sha256": "dcc240e26e99ca2a4a2566ee75f12adb94b735daf02b38173f3d803b31cc5da1",
+  "ok": true
+ },
+ "libcups2": {
+  "basename": "libcups2_2.3.1-9kylin1k4_amd64.deb",
+  "sha256": "f021b1a383fcdd98b4c333abe49aafafb4f9488b218ba4490b67932e99cc824f",
+  "ok": true
+ },
+ "libcurl3-gnutls": {
+  "basename": "libcurl3-gnutls_7.68.0-1kylin2.7_amd64.deb",
+  "sha256": "0376f90807aa8a7921966edd23e5de7859c6e8a5b0a625364b64128b4e43b589",
+  "ok": true
+ },
+ "libcurl4": {
+  "basename": "libcurl4_7.68.0-1kylin2.7_amd64.deb",
+  "sha256": "65dabd876c32f3713e60d1110f11836738647da8d5adc792c01429d08d6ac88f",
+  "ok": true
+ },
+ "libdatrie1": {
+  "basename": "libdatrie1_0.2.12-3_amd64.deb",
+  "sha256": "809a7e6e7aae5e24f8f00cdb58b399540b2b200ca71faf5f46b576e9f2a8b940",
+  "ok": true
+ },
+ "libdb5.3": {
+  "basename": "libdb5.3_5.3.28+dfsg1-0.6kylin2_amd64.deb",
+  "sha256": "6d66ee3b090ddc166e1ddbe30ee04fc04fce2fc7c800c2757997335159a48e1c",
+  "ok": true
+ },
+ "libdbi-perl": {
+  "basename": "libdbi-perl_1.643-1_amd64.deb",
+  "sha256": "5d5d4a2d7627b9e07edf6f0f758711e52ccd7a44374991d5c631578ac372f528",
+  "ok": true
+ },
+ "libdbi1": {
+  "basename": "libdbi1_0.9.0-5_amd64.deb",
+  "sha256": "356c5d3de60d4a14cd36ba68c444207b9dc2a9ee666fe654933dccf4edd7f6fb",
+  "ok": true
+ },
+ "libdbus-1-3": {
+  "basename": "libdbus-1-3_1.12.16-2kylin2.1_amd64.deb",
+  "sha256": "03e4fd09dd0bc506d68c8bffd233bcc45eeaaa9789ecb0121a7ac7a5b9335a32",
+  "ok": true
+ },
+ "libdevmapper1.02.1": {
+  "basename": "libdevmapper1.02.1_1.02.167-1kylin1_amd64.deb",
+  "sha256": "f86069da8429b1301849879b7b1a7634c4e8ded4605da03d34416bf6cd3e2101",
+  "ok": true
+ },
+ "libdouble-conversion3": {
+  "basename": "libdouble-conversion3_3.1.5-4kylin1k2_amd64.deb",
+  "sha256": "d21fa3de3da39b23d357d6f6a3b0faa308b280f1b530adcfbb43513aac9e1199",
+  "ok": true
+ },
+ "libedit2": {
+  "basename": "libedit2_3.1-20191231-2_amd64.deb",
+  "sha256": "98f91b69292836c0273306edaa09e9ac3581fd299fca6f75a137967dc9f82df7",
+  "ok": true
+ },
+ "libelf1": {
+  "basename": "libelf1_0.176-1.1build1_amd64.deb",
+  "sha256": "65cca38dfe7a355fe0474a7748719be05291b062c887876adc459d63d206bfed",
+  "ok": true
+ },
+ "liberror-perl": {
+  "basename": "liberror-perl_0.17029-1_all.deb",
+  "sha256": "54f13540b7292e584ff57c3c0797e039be1251f759b5d8d48035c399d5fe9155",
+  "ok": true
+ },
+ "libexpat1": {
+  "basename": "libexpat1_2.2.9-1kylin0.2_amd64.deb",
+  "sha256": "f4992da97d3cfb317cd8c0bf3c82e7d147de7271cfcee0921d1d45481e6063a2",
+  "ok": true
+ },
+ "libffi7": {
+  "basename": "libffi7_3.3-4.kylin1k2_amd64.deb",
+  "sha256": "b1e05faaeaa3fff58b138ee35a38da14939290fd9d577baeeaade73c6f9e2ef5",
+  "ok": true
+ },
+ "libfftw3-double3": {
+  "basename": "libfftw3-double3_3.3.8-2kylin1_amd64.deb",
+  "sha256": "b95a191047b89fce451fc194ab09579f46065e18f83fe3df181b3b10ae228a30",
+  "ok": true
+ },
+ "libfontconfig1": {
+  "basename": "libfontconfig1_2.13.1-2kylin3_amd64.deb",
+  "sha256": "5137800435ba3858605888d95764c7eb61d7085210e424d96128584319934e12",
+  "ok": true
+ },
+ "libfreetype6": {
+  "basename": "libfreetype6_2.10.1-2kylin0.1k1_amd64.deb",
+  "sha256": "3dbd5e0f1e886bd1f28562e785449b81ef2f89c324459647b594c581bac549d2",
+  "ok": true
+ },
+ "libfribidi0": {
+  "basename": "libfribidi0_1.0.8-2kylin0k1_amd64.deb",
+  "sha256": "eaea672bb47d38117c88068810ebf751345c6fd42f09ab5427048a95fc3b88fe",
+  "ok": true
+ },
+ "libgcc-s1": {
+  "basename": "libgcc-s1_10.3.0-1kylin1~20.04_amd64.deb",
+  "sha256": "0b800c798d16e669a6672ed148892743a8f48f1b5dc9f021ae6858bebc803799",
+  "ok": true
+ },
+ "libgcrypt20": {
+  "basename": "libgcrypt20_1.8.5-5kylin1.1_amd64.deb",
+  "sha256": "07fc6a2ea4ffe91434ffed2470e28792184d001054e0c13aca4a948a196aec2b",
+  "ok": true
+ },
+ "libgd3": {
+  "basename": "libgd3_2.2.5-5.2kylin2.1_amd64.deb",
+  "sha256": "7e6911f858411ea5d7a7a64ee4ee113a3f0196fb83fe33c2fcc3abd27969f16a",
+  "ok": true
+ },
+ "libgdbm-compat4": {
+  "basename": "libgdbm-compat4_1.18.1-5_amd64.deb",
+  "sha256": "de5f67c3a76ce817391ff0cd040c86cbf6e63c546f4038ddcfd5fa193dbb4346",
+  "ok": true
+ },
+ "libgdbm6": {
+  "basename": "libgdbm6_1.18.1-5_amd64.deb",
+  "sha256": "ecb9ca00d3f9a8fcacec46190446b46195224bb329b5bef02a0db635e4a847a7",
+  "ok": true
+ },
+ "libgdk-pixbuf2.0-0": {
+  "basename": "libgdk-pixbuf2.0-0_2.40.0+dfsg-3kylin0.2_amd64.deb",
+  "sha256": "50a15279c3b7a7ecf94f8bc6bffb9666c1113cc06df25201d9bc1cbf0ae45c1d",
+  "ok": true
+ },
+ "libgdk-pixbuf2.0-common": {
+  "basename": "libgdk-pixbuf2.0-common_2.40.0+dfsg-3kylin0.2_all.deb",
+  "sha256": "7ff691f9907c274525045a674bdcd9efb964e7a46dfb689af1b8e4fbf8e47215",
+  "ok": true
+ },
+ "libglib2.0-0": {
+  "basename": "libglib2.0-0_2.64.2-1~fakesync1kylin0k8_amd64.deb",
+  "sha256": "d3ae973ad7417ddde0a690984ad2290b0031b89c872e9c5bd0231d1c6c3ca266",
+  "ok": true
+ },
+ "libgmp10": {
+  "basename": "libgmp10_6.2.0+dfsg-4kylin0k3_amd64.deb",
+  "sha256": "9e4b5620803e5f5756c5bc1f028595e5f967f29aed256e888dc2cd00e0563900",
+  "ok": true
+ },
+ "libgnutls30": {
+  "basename": "libgnutls30_3.6.13-2kylin1.6_amd64.deb",
+  "sha256": "374bc84012e48b54df0de55d8ca6ed9ec4ea6ae247e3cde2fdce7f141e18d9da",
+  "ok": true
+ },
+ "libgomp1": {
+  "basename": "libgomp1_10.3.0-1kylin1~20.04_amd64.deb",
+  "sha256": "23bd38506d08d7a8521df0c6518b79d2e413dfd75f0359dc923657f883427587",
+  "ok": true
+ },
+ "libgpg-error0": {
+  "basename": "libgpg-error0_1.37-1kylin0k2_amd64.deb",
+  "sha256": "1f92880e7f64d9279a15f684233fd7cc5805076db820c738aae7da06a1103be7",
+  "ok": true
+ },
+ "libgraphite2-3": {
+  "basename": "libgraphite2-3_1.3.13-11build1_amd64.deb",
+  "sha256": "78fc6dcf6eb85afeee50cfef5c60d4c901bba825bdb2e1a0be93c74a77324a4a",
+  "ok": true
+ },
+ "libgssapi-krb5-2": {
+  "basename": "libgssapi-krb5-2_1.17-6kylin5.1_amd64.deb",
+  "sha256": "584395e2980b0a384edca97d3ab368bc154c62f75888990a3f3a40d7b3bd8b91",
+  "ok": true
+ },
+ "libgssapi3-heimdal": {
+  "basename": "libgssapi3-heimdal_7.7.0+dfsg-1kylin1_amd64.deb",
+  "sha256": "6653662b7b85431cd371102b1456e66ad857830d451e35a389bc245e1075eb9f",
+  "ok": true
+ },
+ "libgtk2.0-0": {
+  "basename": "libgtk2.0-0_2.24.32-4kylin4_amd64.deb",
+  "sha256": "2e729dbbba29736d341a018714e88062f407a38daf0ed38534db1c00ffc391de",
+  "ok": true
+ },
+ "libgtk2.0-common": {
+  "basename": "libgtk2.0-common_2.24.32-4kylin4_all.deb",
+  "sha256": "cc4664e13d8bd02eff58ed526458aab91d66c1d9e9dc018c1c6ae14570c57cbb",
+  "ok": true
+ },
+ "libharfbuzz0b": {
+  "basename": "libharfbuzz0b_2.6.4-1kylin4_amd64.deb",
+  "sha256": "5b9a224f5afabc2f1738dea70323c853b8e707bc52f15c0f2c7a180b002bad68",
+  "ok": true
+ },
+ "libhcrypto4-heimdal": {
+  "basename": "libhcrypto4-heimdal_7.7.0+dfsg-1kylin1_amd64.deb",
+  "sha256": "1345f8d71f93bca484c290c8704f34d3bff86c76e100576512eda206bc1652d4",
+  "ok": true
+ },
+ "libheimbase1-heimdal": {
+  "basename": "libheimbase1-heimdal_7.7.0+dfsg-1kylin1_amd64.deb",
+  "sha256": "0cabe830a71e155b5ba2bc2484c2ca69e810595e5acf7e9def87e3bfb5dd4dd9",
+  "ok": true
+ },
+ "libheimntlm0-heimdal": {
+  "basename": "libheimntlm0-heimdal_7.7.0+dfsg-1kylin1_amd64.deb",
+  "sha256": "a7fcd975c8a7f0a2a02d54f107fa3da108cee2ab42db6ae4b3e9c096b0b14a3b",
+  "ok": true
+ },
+ "libhogweed5": {
+  "basename": "libhogweed5_3.5.1+really3.5.1-2kylin0.2_amd64.deb",
+  "sha256": "d39a4617705fce1acb15c290a54352ed0298fdc43d2a6badc3351879b089a2c3",
+  "ok": true
+ },
+ "libhx509-5-heimdal": {
+  "basename": "libhx509-5-heimdal_7.7.0+dfsg-1kylin1_amd64.deb",
+  "sha256": "3233ece1620dbbfb341a5c5351b4b9c44fc67e2ad27fccbdd16e65f1a26ddfbf",
+  "ok": true
+ },
+ "libicu66": {
+  "basename": "libicu66_66.1-2kylin2.1_amd64.deb",
+  "sha256": "c8cd421d3a6f50ab8b332ece1ac69310b26ed61b634264902570336462252359",
+  "ok": true
+ },
+ "libidn2-0": {
+  "basename": "libidn2-0_2.2.0-2_amd64.deb",
+  "sha256": "b6e9e1d046ac9d682103f9740b7cc921cb7c1d045727b655df668fade3d457b2",
+  "ok": true
+ },
+ "libip4tc2": {
+  "basename": "libip4tc2_1.8.4-3kylin2k1_amd64.deb",
+  "sha256": "e8057b3c9806424b2464ce0058df6ec18587d8fbb1566e970872c134d3265931",
+  "ok": true
+ },
+ "libjbig0": {
+  "basename": "libjbig0_2.1-3.1build1_amd64.deb",
+  "sha256": "5f393595fbfa52dadb1b1714ae0789254a9ff006f67629ac4a43475a7734d7e8",
+  "ok": true
+ },
+ "libjpeg-turbo8": {
+  "basename": "libjpeg-turbo8_2.0.3-0kylin1.20.04.1_amd64.deb",
+  "sha256": "71a18c82475687fc1836605494743ab7d79a5ca982c42f4ce5fe9b06d0e13be7",
+  "ok": true
+ },
+ "libjpeg8": {
+  "basename": "libjpeg8_8c-2kylin8_amd64.deb",
+  "sha256": "abef618c2f44251f070b77315c4fb0d3d0e3b5c1c3226b3b7f4b431717d7e62c",
+  "ok": true
+ },
+ "libjson-c4": {
+  "basename": "libjson-c4_0.13.1+dfsg-7kylin0.3k1_amd64.deb",
+  "sha256": "e009e80152ba44c977f6332dee40d43e8bf04deccbdf88b52ac0fdfc5f1b5e5d",
+  "ok": true
+ },
+ "libk5crypto3": {
+  "basename": "libk5crypto3_1.17-6kylin5.1_amd64.deb",
+  "sha256": "b419c1192fe9c1f2801c884b5e8d1c70b3eb813d272cb7f8f036197b7ccaa725",
+  "ok": true
+ },
+ "libkeyutils1": {
+  "basename": "libkeyutils1_1.6-6kylin1_amd64.deb",
+  "sha256": "8a536c1f3ce84a2bb6b1433addc941e9ff9f70c70156fb96d4501ed08cc21b31",
+  "ok": true
+ },
+ "libkmod2": {
+  "basename": "libkmod2_27+20200310-2kylin1k2_amd64.deb",
+  "sha256": "040971f61d5b514715d272dcd26894e8a7f61c3d364c61b447604be19bf7c157",
+  "ok": true
+ },
+ "libkrb5-26-heimdal": {
+  "basename": "libkrb5-26-heimdal_7.7.0+dfsg-1kylin1_amd64.deb",
+  "sha256": "317f2fe67d552ed0977cf18b91fef52daae3e5fcd8cb7a0c308160e60150c1fb",
+  "ok": true
+ },
+ "libkrb5-3": {
+  "basename": "libkrb5-3_1.17-6kylin5.1_amd64.deb",
+  "sha256": "c566c4b39d9e5f38a780206e1185a624f2af2a654d68bf32137d347951006f7d",
+  "ok": true
+ },
+ "libkrb5support0": {
+  "basename": "libkrb5support0_1.17-6kylin5.1_amd64.deb",
+  "sha256": "2af453c75917ae54161631dcfab02f1fc450831bf36f555199cb5c91d0773074",
+  "ok": true
+ },
+ "libkysec": {
+  "basename": "libkysec_3.3.5-54kylin_amd64.deb",
+  "sha256": "37952b2bec20602f959566c6ddaba56950ec9d0f30fe7ae8c46a63164ab2246a",
+  "ok": true
+ },
+ "libkysec-adv": {
+  "basename": "libkysec-adv_1.0.1-18kylin_amd64.deb",
+  "sha256": "1e1b7cf820066bd952dd9e69a6a643f7dfd592878ca7ccce6ac251ff3fadcb9b",
+  "ok": true
+ },
+ "libkysec-core": {
+  "basename": "libkysec-core_1.0.1-18kylin_amd64.deb",
+  "sha256": "4c8193ec3ba65b4ff3a858ec78ba16051d9cf8e11b0ca29946b65b85615d5edf",
+  "ok": true
+ },
+ "libkysec-extend": {
+  "basename": "libkysec-extend_3.3.5-54kylin_amd64.deb",
+  "sha256": "195b1c483eee499b6384b54e8c8be4a18707d898c7399736308606f9e5e3ec9d",
+  "ok": true
+ },
+ "libkysecwhlist": {
+  "basename": "libkysecwhlist_3.3.5-54kylin_amd64.deb",
+  "sha256": "28b7f225077ccb0576bec61501b4939bcd1e942167eb5c091026868f4a76367a",
+  "ok": true
+ },
+ "liblcms2-2": {
+  "basename": "liblcms2-2_2.9-4_amd64.deb",
+  "sha256": "0f024ac98b3225b4c46f9cfc59b6f86a2d730815e1ce7e9a1e9323ee7cd0ce69",
+  "ok": true
+ },
+ "libldap-2.4-2": {
+  "basename": "libldap-2.4-2_2.4.49+dfsg-2kylin1.7_amd64.deb",
+  "sha256": "24a2033a8efa0f3ff687bbbe919c29ad55face0abb571f6ac308c0e924f3a0c7",
+  "ok": true
+ },
+ "libldap-common": {
+  "basename": "libldap-common_2.4.49+dfsg-2kylin1.7_all.deb",
+  "sha256": "77cdda2b022255a3a74163bcd291663366dd534e2b70555cf5d8a529e7e87f0c",
+  "ok": true
+ },
+ "liblqr-1-0": {
+  "basename": "liblqr-1-0_0.4.2-2.1_amd64.deb",
+  "sha256": "86ddd594dd80c2e3d9edc71d9344c7a3d425d5c9301eb955561675d94c906da2",
+  "ok": true
+ },
+ "libltdl7": {
+  "basename": "libltdl7_2.4.6-14_amd64.deb",
+  "sha256": "2e2d884fe3ac2076f0de82765425eda9565b3ea0c837b0e381de89d55c5617b9",
+  "ok": true
+ },
+ "liblz4-1": {
+  "basename": "liblz4-1_1.9.2-2kylin0.20.04.1_amd64.deb",
+  "sha256": "626393b7ff44854b5f31948c23347878a86391813d93cf1eab180ad56e4d7877",
+  "ok": true
+ },
+ "liblzma5": {
+  "basename": "liblzma5_5.2.4-1kylin2_amd64.deb",
+  "sha256": "9a49595bc403f0438915004b5a94abd5e9ca571fba6973aa3aaa20b31605b0b2",
+  "ok": true
+ },
+ "libmagic-mgc": {
+  "basename": "libmagic-mgc_5.38-4kylin0k1_amd64.deb",
+  "sha256": "324c1f63074364e7c855b1d6f47804b465e4517fd59522bc94e90d20729d0636",
+  "ok": true
+ },
+ "libmagic1": {
+  "basename": "libmagic1_5.38-4kylin0k1_amd64.deb",
+  "sha256": "57773a3263593e597eb0cc9f599ab99800a32d80a16eae20c8151f7436c35c55",
+  "ok": true
+ },
+ "libmagickcore-6.q16-6": {
+  "basename": "libmagickcore-6.q16-6_6.9.10.23+dfsg-2.1kylin11.4_amd64.deb",
+  "sha256": "94097d2ff92c4036ae691946c706b88ac10fe2e16978674e73dc5edc640d7408",
+  "ok": true
+ },
+ "libmagickwand-6.q16-6": {
+  "basename": "libmagickwand-6.q16-6_6.9.10.23+dfsg-2.1kylin11.4_amd64.deb",
+  "sha256": "31ede1cfc5826f5b2533fb942a6fada9dea4933a3bf23a76b84275b2f0b8c38f",
+  "ok": true
+ },
+ "libmnl0": {
+  "basename": "libmnl0_1.0.4-2_amd64.deb",
+  "sha256": "d45c059953b9947b86fc92274bbab83a8fec1debca40886fe5704982090fc8e8",
+  "ok": true
+ },
+ "libmount1": {
+  "basename": "libmount1_2.34-0.1kylin16~rc1_amd64.deb",
+  "sha256": "3dac0404617f789715222df5732233845dbe062942294175d62e7b62e4258340",
+  "ok": true
+ },
+ "libmpdec2": {
+  "basename": "libmpdec2_2.4.2-3_amd64.deb",
+  "sha256": "4ec89063bf1612bb1f34f5c3de208aa963d172148495b482784d257c718443ff",
+  "ok": true
+ },
+ "libmpfr6": {
+  "basename": "libmpfr6_4.0.2-1_amd64.deb",
+  "sha256": "d26f8cacee5205e1764b34fc28b8403e7f4a802ce4c06ddb116be4b854972974",
+  "ok": true
+ },
+ "libmysqlclient21": {
+  "basename": "libmysqlclient21_8.0.26-0kylin0.20.04.2_amd64.deb",
+  "sha256": "8a3da806ed631cdbc6121c6f9a7e7aedece2fe1d29f2ba10f454ee94271ef17e",
+  "ok": true
+ },
+ "libncurses6": {
+  "basename": "libncurses6_6.2-0kylin2_amd64.deb",
+  "sha256": "a06788d26d834aa2a451e03cc64a03ee9d4afff4ca9da87859dffb806793196e",
+  "ok": true
+ },
+ "libncursesw6": {
+  "basename": "libncursesw6_6.2-0kylin2_amd64.deb",
+  "sha256": "19dabd0ef90e857da7956269ec33f4e7a7909cb972dd94071786abd312a44fc7",
+  "ok": true
+ },
+ "libnettle7": {
+  "basename": "libnettle7_3.5.1+really3.5.1-2kylin0.2_amd64.deb",
+  "sha256": "80a193c3f3aa42e60dbb1a9e6b935956303a56f7c53d26e53ffde0f095fc54be",
+  "ok": true
+ },
+ "libnghttp2-14": {
+  "basename": "libnghttp2-14_1.40.0-1kylin1_amd64.deb",
+  "sha256": "ca1fdcd5da21714e2630d8a8cbd5b4204bf343243ed0588a93b72beafa323b41",
+  "ok": true
+ },
+ "libnginx-mod-http-image-filter": {
+  "basename": "libnginx-mod-http-image-filter_1.18.0-0kylin1.2_amd64.deb",
+  "sha256": "59759ca4d3e817065bcc46dc926d12c719c309e3ea0f612dfbdc3b7b41a5ac81",
+  "ok": true
+ },
+ "libnginx-mod-http-xslt-filter": {
+  "basename": "libnginx-mod-http-xslt-filter_1.18.0-0kylin1.2_amd64.deb",
+  "sha256": "ba5112714d634bb6b34cd6d29a85c7f3d620746432b826f735f1fe8b1d79f8ca",
+  "ok": true
+ },
+ "libnginx-mod-mail": {
+  "basename": "libnginx-mod-mail_1.18.0-0kylin1.2_amd64.deb",
+  "sha256": "a1e878e43278510e2422679b3604b8ccafb2493126023143f2775fae34ccb9aa",
+  "ok": true
+ },
+ "libnginx-mod-stream": {
+  "basename": "libnginx-mod-stream_1.18.0-0kylin1.2_amd64.deb",
+  "sha256": "7f54385b3fbf438120a5eddb8406ed489fdcbe00e1bf92183c396baf4f50653f",
+  "ok": true
+ },
+ "libonig5": {
+  "basename": "libonig5_6.9.4-1_amd64.deb",
+  "sha256": "cffe590597f5ed5214589ed478e4b85a90d444e6739cd1690492b780153bdf21",
+  "ok": true
+ },
+ "libp11-kit0": {
+  "basename": "libp11-kit0_0.23.20-1kylin0.1_amd64.deb",
+  "sha256": "42be65c805754af46ff81b6b861f489e4dddb52634f8ff32ed0997c2b1378743",
+  "ok": true
+ },
+ "libpam-modules": {
+  "basename": "libpam-modules_1.3.1-5kylin4k33_amd64.deb",
+  "sha256": "bf2893001524980a3938c874d7885ac39fdb165d0a70d5f8649f851833b2e5f1",
+  "ok": true
+ },
+ "libpam-modules-bin": {
+  "basename": "libpam-modules-bin_1.3.1-5kylin4k33_amd64.deb",
+  "sha256": "1f8e8f51a15339f4518161d3bd0af15f611b9f33745aa46f136857c4b23737ab",
+  "ok": true
+ },
+ "libpam-runtime": {
+  "basename": "libpam-runtime_1.3.1-5kylin4k33_all.deb",
+  "sha256": "43286ce32d94888fb0f656571f19cc64e2f5ad63cfa51f573cd3449c1490b240",
+  "ok": true
+ },
+ "libpam0g": {
+  "basename": "libpam0g_1.3.1-5kylin4k33_amd64.deb",
+  "sha256": "ff5cefabce1eb5e686b7c5ac4791969b32b07478d73625a984f04f3bf5888444",
+  "ok": true
+ },
+ "libpango-1.0-0": {
+  "basename": "libpango-1.0-0_1.44.7-2kylin4_amd64.deb",
+  "sha256": "6855f3ffc56297cbd18c5b5023b3cf3000b74db9d644ef5f1e53314e1e73f9cb",
+  "ok": true
+ },
+ "libpangocairo-1.0-0": {
+  "basename": "libpangocairo-1.0-0_1.44.7-2kylin4_amd64.deb",
+  "sha256": "75c57077c3e72fb96028179d52c85fe68cabfb0cb88955435779be0ae6e87146",
+  "ok": true
+ },
+ "libpangoft2-1.0-0": {
+  "basename": "libpangoft2-1.0-0_1.44.7-2kylin4_amd64.deb",
+  "sha256": "31a95e81338d160e8f9cc905fcb39926defd8312de1b0a574338e68534b0d368",
+  "ok": true
+ },
+ "libpci3": {
+  "basename": "libpci3_3.6.4-1_amd64.deb",
+  "sha256": "ffbf85a053873be14ce0f4a3d94918da1e5677934ba4d930957af1384d01aae6",
+  "ok": true
+ },
+ "libpcre2-16-0": {
+  "basename": "libpcre2-16-0_10.34-7_amd64.deb",
+  "sha256": "80538816b9b45cb717f9ae1e9f93476abb6bb8cc83ede8f49cf473d4920f0242",
+  "ok": true
+ },
+ "libpcre2-8-0": {
+  "basename": "libpcre2-8-0_10.34-7_amd64.deb",
+  "sha256": "66737fe06c9cd9d3399646e8e79ba4bd0b4eef73c697cbdc16ce76bad1edfa59",
+  "ok": true
+ },
+ "libpcre3": {
+  "basename": "libpcre3_8.39-12build1_amd64.deb",
+  "sha256": "6a7429e1f5a1972ef3cdb03699830fa31beaf0684a5b6f8685c176078a6aae7f",
+  "ok": true
+ },
+ "libperl5.30": {
+  "basename": "libperl5.30_5.30.0-9build1kylin0k2_amd64.deb",
+  "sha256": "3261654a8f263ed82ec2ce0ae4bd2c0a355c0fec6e90fd192e4ea28af5958b34",
+  "ok": true
+ },
+ "libpixman-1-0": {
+  "basename": "libpixman-1-0_0.38.4-0kylin1_amd64.deb",
+  "sha256": "a8c22323712dd441703f5f4804fe1b965692e84641b181317b66540b6200c623",
+  "ok": true
+ },
+ "libpng16-16": {
+  "basename": "libpng16-16_1.6.37-2_amd64.deb",
+  "sha256": "08d00302abb59f2220240b0d5b504928d985a0c2fca4f6c2e3f151208b1d56f1",
+  "ok": true
+ },
+ "libpopt0": {
+  "basename": "libpopt0_1.16-14_amd64.deb",
+  "sha256": "6569244e59920975ca6fb08430288542c2ef4ba750128fef2390454a8796a98a",
+  "ok": true
+ },
+ "libprocps8": {
+  "basename": "libprocps8_3.3.16-1kylin2k4_amd64.deb",
+  "sha256": "b72c0099c8ef1bb3bac1956c6210bdacecf7189ef851a7867a522da45e11d655",
+  "ok": true
+ },
+ "libpsl5": {
+  "basename": "libpsl5_0.21.0-1kylin1_amd64.deb",
+  "sha256": "c1d66535dd6ab315ca6aaaff0a8dc71b52048155e1599620b931fc36c381cb4b",
+  "ok": true
+ },
+ "libpwquality-common": {
+  "basename": "libpwquality-common_1.4.2-1kylin16_all.deb",
+  "sha256": "738890c9da4fa295204400fbdd427ece78067daf80e8153ba525b3ec72835f40",
+  "ok": true
+ },
+ "libpwquality1": {
+  "basename": "libpwquality1_1.4.2-1kylin16_amd64.deb",
+  "sha256": "c04307e3f85367220b65ca61d62db7b353277e708f1efb448dea848e59981bcb",
+  "ok": true
+ },
+ "libpython3-stdlib": {
+  "basename": "libpython3-stdlib_3.8.2-0kylin2_amd64.deb",
+  "sha256": "52d86ab437b6bed98ab51fb1938f747d16963c34da6ce8d87378bc8aa8e21ba8",
+  "ok": true
+ },
+ "libpython3.8-minimal": {
+  "basename": "libpython3.8-minimal_3.8.2-1kylin1k7_amd64.deb",
+  "sha256": "2971345455771b4ddaf306fef2785bd39cacd26f5d4415eface583190c27206d",
+  "ok": true
+ },
+ "libpython3.8-stdlib": {
+  "basename": "libpython3.8-stdlib_3.8.2-1kylin1k7_amd64.deb",
+  "sha256": "fdbb3aa85876992ea7bd1f0df0b55ff9ed4c1a5c765ea247019d46212703dbbe",
+  "ok": true
+ },
+ "libqt5core5a": {
+  "basename": "libqt5core5a_5.12.8+dfsg-0kylin1k3_amd64.deb",
+  "sha256": "99a389933b661e5016719f65f5a2e14de5ae6baa2d7d84ba41545ae7a7bd9c9e",
+  "ok": true
+ },
+ "libqt5dbus5": {
+  "basename": "libqt5dbus5_5.12.8+dfsg-0kylin1k3_amd64.deb",
+  "sha256": "515ae56673e1dec47aea4598edfe426cb54cc58e1fe8102059bf7a8b61fb1454",
+  "ok": true
+ },
+ "libreadline5": {
+  "basename": "libreadline5_5.2+dfsg-3build3_amd64.deb",
+  "sha256": "38d142378fe8f675aa127edb502ce4c340c9da335369a4ed002e40046856f5bc",
+  "ok": true
+ },
+ "libreadline8": {
+  "basename": "libreadline8_8.0-4_amd64.deb",
+  "sha256": "37155ab992f7aaf738903d2bbea8e2de7ff2bb2e9187eb21782f85aa1cd3abb6",
+  "ok": true
+ },
+ "libroken18-heimdal": {
+  "basename": "libroken18-heimdal_7.7.0+dfsg-1kylin1_amd64.deb",
+  "sha256": "01cc3a5fff598cf850967ef69221beaaacf0ca6f95d37c36728b3c401680698f",
+  "ok": true
+ },
+ "librrd8": {
+  "basename": "librrd8_1.7.2-3build2_amd64.deb",
+  "sha256": "d88325fdc0a7d799365debf658887e4267b063f5a3b761809dccae90ef781e8a",
+  "ok": true
+ },
+ "librsvg2-2": {
+  "basename": "librsvg2-2_2.48.2-1kylin0k4_amd64.deb",
+  "sha256": "fe7e8d49e87110757724033779d577cbfeb439985b02c43f98e426d4a6ab43ae",
+  "ok": true
+ },
+ "librsvg2-common": {
+  "basename": "librsvg2-common_2.48.2-1kylin0k4_amd64.deb",
+  "sha256": "fbcae1a80251cc8f3ff83757b56a081e0216a03c7fcc7b6375b664c0a6aa2b47",
+  "ok": true
+ },
+ "librtmp1": {
+  "basename": "librtmp1_2.4+20151223.gitfa8646d.1-2build1_amd64.deb",
+  "sha256": "b9553397cf4b6abc048382440f9b63716312e18c772bde450e800fcf60e97422",
+  "ok": true
+ },
+ "libsasl2-2": {
+  "basename": "libsasl2-2_2.1.27+dfsg-2_amd64.deb",
+  "sha256": "5b402a5536ff72d376b94a9aeaca25a1eeefbf0aa32ea51770c2b4662666b9c1",
+  "ok": true
+ },
+ "libsasl2-modules-db": {
+  "basename": "libsasl2-modules-db_2.1.27+dfsg-2_amd64.deb",
+  "sha256": "0ac0da566abbe96aae138d5ff788617f52d03baf80a3e14db1c6d4f5c15435fa",
+  "ok": true
+ },
+ "libseccomp2": {
+  "basename": "libseccomp2_2.4.3-1kylin3.20.04.3k5_amd64.deb",
+  "sha256": "8672a499034ffef66ef8115ad41e757ad15a21ab51f0a86fbe7148903f4d2866",
+  "ok": true
+ },
+ "libsecurity-conf": {
+  "basename": "libsecurity-conf_1.1-17kylin_amd64.deb",
+  "sha256": "f640bfb2286bc838440045323837ff6bd5c286382bc310b0094d443d0b85aff1",
+  "ok": true
+ },
+ "libselinux1": {
+  "basename": "libselinux1_3.0-1kylin2k2_amd64.deb",
+  "sha256": "e865b2863b886471a6e1bb45d34c839bc490ca95ce8d2dc0140463f7a14d63d6",
+  "ok": true
+ },
+ "libsemanage-common": {
+  "basename": "libsemanage-common_3.0-1build2k4_all.deb",
+  "sha256": "e1deb42bdae15aa9d4320f7a525427181f464a6cc96a001206166f7f613b7d30",
+  "ok": true
+ },
+ "libsemanage1": {
+  "basename": "libsemanage1_3.0-1build2k4_amd64.deb",
+  "sha256": "b2fb76d16fdbd29933462b58c4845f57d19d7d61a5bdfb1c70c3977bf5054fea",
+  "ok": true
+ },
+ "libsensors-config": {
+  "basename": "libsensors-config_3.6.0-2kylin1_all.deb",
+  "sha256": "056f553b910749d59feb49966449886c25342707f3618809acec8c56400ef121",
+  "ok": true
+ },
+ "libsensors5": {
+  "basename": "libsensors5_3.6.0-2kylin1_amd64.deb",
+  "sha256": "42f5746249a81bb7e21ead4d5e148c9e43706f75809fea47bf9f7979d3943130",
+  "ok": true
+ },
+ "libsepol1": {
+  "basename": "libsepol1_3.0-2_amd64.deb",
+  "sha256": "5407afebff4c6fa6dfe45a559bdf888a07fdb2bb3485293f8a7e13a2f39ab10c",
+  "ok": true
+ },
+ "libsigsegv2": {
+  "basename": "libsigsegv2_2.12-2_amd64.deb",
+  "sha256": "c2816ce243b385f1461f28b28b410897c5eeee8f94eedc621d167cbdc08c0b8e",
+  "ok": true
+ },
+ "libsmartcols1": {
+  "basename": "libsmartcols1_2.34-0.1kylin16~rc1_amd64.deb",
+  "sha256": "3089bb4349703ee0eeb6966bd4dccf635c7ef0cb09c589d68bb15cd22813f983",
+  "ok": true
+ },
+ "libsnappy1v5": {
+  "basename": "libsnappy1v5_1.1.8-1build1_amd64.deb",
+  "sha256": "d881be943a69429b7f2d7bc461e56a409d62c307bd8539f0ee5f241529f3f246",
+  "ok": true
+ },
+ "libsnmp-base": {
+  "basename": "libsnmp-base_5.8+dfsg-2kylin2.3_all.deb",
+  "sha256": "ba6aa2e923a23efe04c359db85025195511f747cb110e7d5f57eab8ed983edf4",
+  "ok": true
+ },
+ "libsnmp35": {
+  "basename": "libsnmp35_5.8+dfsg-2kylin2.3_amd64.deb",
+  "sha256": "49c23770df3656cddb7945fc4bf6cb8470056389f349c92a072361e46bced90a",
+  "ok": true
+ },
+ "libsodium23": {
+  "basename": "libsodium23_1.0.18-1_amd64.deb",
+  "sha256": "235a61cd2a7413fda2a05345d77d23af1b7824a0fec44628525b2e432f172a73",
+  "ok": true
+ },
+ "libsqlite3-0": {
+  "basename": "libsqlite3-0_3.31.1-4kylin0.2_amd64.deb",
+  "sha256": "ed9649ff8bae07c59a503844ff1bf412ed9a1717af9d9a7102398dded266130a",
+  "ok": true
+ },
+ "libssh-4": {
+  "basename": "libssh-4_0.9.3-2kylin2.2_amd64.deb",
+  "sha256": "8c76c2ee790f0402e466b75da88628662a97f9ce270f1c6020daa869892979ef",
+  "ok": true
+ },
+ "libssl1.1": {
+  "basename": "libssl1.1_1.1.1f-1kylin2.12k1_amd64.deb",
+  "sha256": "277541a3cae1c1dda87ee5c199d8897cc1b8eb63253fa88ee6d19103db1a789c",
+  "ok": true
+ },
+ "libstdc++6": {
+  "basename": "libstdc++6_10.3.0-1kylin1~20.04_amd64.deb",
+  "sha256": "5d84903ae0c53db2e077a0e8ceb3599534c01929721b838612f91fb920bd661c",
+  "ok": true
+ },
+ "libsystemd0": {
+  "basename": "libsystemd0_245.4-4kylin3.11k14_amd64.deb",
+  "sha256": "964f6d0ac672c272a2fe26413bf86ea9ba0e91a08b82dc8603a757ca4ede3445",
+  "ok": true
+ },
+ "libtasn1-6": {
+  "basename": "libtasn1-6_4.16.0-2_amd64.deb",
+  "sha256": "f3214d1b6134e294ca0d6344b37f87e323a9ef00c2c3333fb696b27f5e262686",
+  "ok": true
+ },
+ "libthai-data": {
+  "basename": "libthai-data_0.1.28-3_all.deb",
+  "sha256": "bc6615b9c096864927c3af40261ba1d89ea708e9f1e9cc6aae21b6a606cc9098",
+  "ok": true
+ },
+ "libthai0": {
+  "basename": "libthai0_0.1.28-3_amd64.deb",
+  "sha256": "cfcf40d40a0829831ba9c479fe5daed0d806bb15d9f7df8179c3df131747f129",
+  "ok": true
+ },
+ "libtiff5": {
+  "basename": "libtiff5_4.1.0+git191117-2kylin0.20.04.2_amd64.deb",
+  "sha256": "77faaf8edb1c7abaa01bd35b2a9252eaf109475150cc1b36bae7c533234a7df3",
+  "ok": true
+ },
+ "libtinfo6": {
+  "basename": "libtinfo6_6.2-0kylin2_amd64.deb",
+  "sha256": "ff6c60ad681a3ac1fd77c8314ac3e9aa3a1f790a3978bd00e4646ff5115d2bea",
+  "ok": true
+ },
+ "libudev1": {
+  "basename": "libudev1_245.4-4kylin3.11k14_amd64.deb",
+  "sha256": "8439187512bb6be4cc4d9e5178570119c4cb422ed8aaac9fc158fa5c469dcd1e",
+  "ok": true
+ },
+ "libunistring2": {
+  "basename": "libunistring2_0.9.10-2_amd64.deb",
+  "sha256": "efc48c3ccb844e8827cb4c129d21a0be13f14751c244cd55b9b81773d0a68758",
+  "ok": true
+ },
+ "libuuid1": {
+  "basename": "libuuid1_2.34-0.1kylin16~rc1_amd64.deb",
+  "sha256": "6fd89f71204e531be71a1f01823b9c70933655330d8adc41164efb3dd9bf2704",
+  "ok": true
+ },
+ "libwebp6": {
+  "basename": "libwebp6_0.6.1-2kylin0.20.04.1_amd64.deb",
+  "sha256": "f9da37cad62d89ea140db88eb77e7a61effd9034474c434864a5f0ed1610fd13",
+  "ok": true
+ },
+ "libwebpmux3": {
+  "basename": "libwebpmux3_0.6.1-2kylin0.20.04.1_amd64.deb",
+  "sha256": "99dcd41d8ff999d02ad417a19156a00625e47fbc4e04f9ff6b8fbec977c132c0",
+  "ok": true
+ },
+ "libwind0-heimdal": {
+  "basename": "libwind0-heimdal_7.7.0+dfsg-1kylin1_amd64.deb",
+  "sha256": "6fd146a523a2fba849c1dc1a097d656b9cdefdb9306b776a0fd5259224f93600",
+  "ok": true
+ },
+ "libwrap0": {
+  "basename": "libwrap0_7.6.q-30_amd64.deb",
+  "sha256": "e51824e47c9603bf3967193cad70367e313c05e8ed594f97db97c07f939927d6",
+  "ok": true
+ },
+ "libx11-6": {
+  "basename": "libx11-6_1.6.9-2kylin1.2_amd64.deb",
+  "sha256": "c8441d246266d8441db6e0d2192488db1d6210fba73fe0be8788611ab103ac4f",
+  "ok": true
+ },
+ "libx11-data": {
+  "basename": "libx11-data_1.6.9-2kylin1.2_all.deb",
+  "sha256": "6586ca68cab121e1c415dc489d7c02bebd05b52012040d3a77a9dd23506521c8",
+  "ok": true
+ },
+ "libxau6": {
+  "basename": "libxau6_1.0.9-0kylin1_amd64.deb",
+  "sha256": "f654ac2a90afd12a78b54f3b7b9a891a633af27bdc563ac811f6b36ec935b81f",
+  "ok": true
+ },
+ "libxcb-render0": {
+  "basename": "libxcb-render0_1.14-2_amd64.deb",
+  "sha256": "73198120de18c90bb597230cc0be025a29f73e9d69c7f4ff3bd0b70ed7694517",
+  "ok": true
+ },
+ "libxcb-shm0": {
+  "basename": "libxcb-shm0_1.14-2_amd64.deb",
+  "sha256": "2fa2863b9e3f2f5d4d685777b5615213d8b8233b16a8a5bb890cbf5bf5f3bfa6",
+  "ok": true
+ },
+ "libxcb1": {
+  "basename": "libxcb1_1.14-2_amd64.deb",
+  "sha256": "b64b6f4ad3115e7d2c79bf508efab1630e1b5a83f1199a8d1ce241413fbeec65",
+  "ok": true
+ },
+ "libxcomposite1": {
+  "basename": "libxcomposite1_0.4.5-1_amd64.deb",
+  "sha256": "2eb0ca5c8d50b0b7315c2448a236544a8e14bc1464f060f018f88f3e130d8a61",
+  "ok": true
+ },
+ "libxcursor1": {
+  "basename": "libxcursor1_1.2.0-2_amd64.deb",
+  "sha256": "751fbbe72eca43349ed46c86dc0129b8fdb7b42222c7f70972b81b8ee9faeaf6",
+  "ok": true
+ },
+ "libxdamage1": {
+  "basename": "libxdamage1_1.1.5-2_amd64.deb",
+  "sha256": "c03e7d4a5dd4fe4f2379c4c76bc4a11b28472fe25ffbe28cff539cdecf71c29e",
+  "ok": true
+ },
+ "libxdmcp6": {
+  "basename": "libxdmcp6_1.1.3-0kylin1_amd64.deb",
+  "sha256": "565c1cb5b97a1759d49b4eb1307fa184a00df5b9a3f6908ac7c26502d83aa336",
+  "ok": true
+ },
+ "libxext6": {
+  "basename": "libxext6_1.3.4-0kylin1_amd64.deb",
+  "sha256": "2d0b66e251e050b9e323a9badbd1bec851160d0c38e3fc3d78fcc7bd9f230dce",
+  "ok": true
+ },
+ "libxfixes3": {
+  "basename": "libxfixes3_5.0.3-2_amd64.deb",
+  "sha256": "1f5ca6c95f35daf1a765a55f30b3851e5b2b78371e2328b559f07cc3946d7e3e",
+  "ok": true
+ },
+ "libxi6": {
+  "basename": "libxi6_1.7.10-0kylin1_amd64.deb",
+  "sha256": "71d0ef03e8915f6e53cc5b68c35a670140a30d5908074002041e08cc4f6ff55e",
+  "ok": true
+ },
+ "libxinerama1": {
+  "basename": "libxinerama1_1.1.4-2_amd64.deb",
+  "sha256": "049e0c76048a50e797288c57893e82052d7bd1369f34f732f794330a2b5479c1",
+  "ok": true
+ },
+ "libxml2": {
+  "basename": "libxml2_2.9.10+dfsg-5kylin0.20.04.1_amd64.deb",
+  "sha256": "489373d9160270c516a061806a900b40cd52364ce63e823bb61f24581d9f08ab",
+  "ok": true
+ },
+ "libxpm4": {
+  "basename": "libxpm4_3.5.12-1_amd64.deb",
+  "sha256": "9e59b5662cab46e185f6e9b117dd5a9456e567275924bfd8ea3a60c375607d30",
+  "ok": true
+ },
+ "libxrandr2": {
+  "basename": "libxrandr2_1.5.2-0kylin1_amd64.deb",
+  "sha256": "c890d401d318ef27dd04a4b27df58641ae552d7cafd164b8bdeb006899aa8be4",
+  "ok": true
+ },
+ "libxrender1": {
+  "basename": "libxrender1_0.9.10-1_amd64.deb",
+  "sha256": "ed4e09fb5d185dd250a7e4ffb0e76f7b94b51fc0304400cf5730e2916574e98d",
+  "ok": true
+ },
+ "libxslt1.1": {
+  "basename": "libxslt1.1_1.1.34-4_amd64.deb",
+  "sha256": "2f0af8f4c8932b79779061c85e7c78acf72a619e7e239c0709db9a218bae12c7",
+  "ok": true
+ },
+ "libxtables12": {
+  "basename": "libxtables12_1.8.4-3kylin2k1_amd64.deb",
+  "sha256": "8dc7fbc18d62ea8cce9c92785ea165876b48c6cc577994edb85038e9d3ddf731",
+  "ok": true
+ },
+ "libzip5": {
+  "basename": "libzip5_1.5.1-0kylin1_amd64.deb",
+  "sha256": "399e922ffd25970286aabfbb971eb0cc1f7e892d9a628328cb49b2120d61b9ce",
+  "ok": true
+ },
+ "libzstd1": {
+  "basename": "libzstd1_1.4.4+dfsg-3kylin0.1_amd64.deb",
+  "sha256": "ad4fd2c6e0049003171d9895fecca6bfb4fd951db8953529cd5fc87151829a58",
+  "ok": true
+ },
+ "login": {
+  "basename": "login_4.8.1-1kylin5k14_amd64.deb",
+  "sha256": "0d258c358f4295ccc9e83a39f5809073259a9d7c455b665b9020ea0272263016",
+  "ok": true
+ },
+ "logrotate": {
+  "basename": "logrotate_3.14.0-4kylin3_amd64.deb",
+  "sha256": "cea2adc31361c73613300fc9159d9bb69f0f5968bf72b07386cdcfea003bedf0",
+  "ok": true
+ },
+ "lsb-base": {
+  "basename": "lsb-base_11.1.0kylin2_all.deb",
+  "sha256": "166a44386d88a7f4d2273aeb7e394dbfe6465fd8c7d977e45b70a1e9b7307598",
+  "ok": true
+ },
+ "lsof": {
+  "basename": "lsof_4.93.2+dfsg-1_amd64.deb",
+  "sha256": "3ac2aafda56074a5e308bf6404af0fd556e342fc2bca8faee5eb0cf1ca19f705",
+  "ok": true
+ },
+ "mariadb-client": {
+  "basename": "mariadb-client_10.3.31-0kylin0.20.04.1_all.deb",
+  "sha256": "59043a873f1363f7d770b6532edcc2fa843f468bcac8f51bcb8e9705d73f5106",
+  "ok": true
+ },
+ "mariadb-client-10.3": {
+  "basename": "mariadb-client-10.3_10.3.31-0kylin0.20.04.1_amd64.deb",
+  "sha256": "0543c935186e3d6a6788714ad5ae3dadaef6e9d44c99e17f08a14258e7e47ac7",
+  "ok": true
+ },
+ "mariadb-client-core-10.3": {
+  "basename": "mariadb-client-core-10.3_10.3.31-0kylin0.20.04.1_amd64.deb",
+  "sha256": "d00b0edea456bfca32ac30c4afdc37f498f212db2101166fdc15e94380b4cf45",
+  "ok": true
+ },
+ "mariadb-common": {
+  "basename": "mariadb-common_10.3.31-0kylin0.20.04.1_all.deb",
+  "sha256": "9719133bd6cef359aa1c441838e9243e5fea288f43d975a07c7fe0d38c40511b",
+  "ok": true
+ },
+ "mariadb-server": {
+  "basename": "mariadb-server_10.3.31-0kylin0.20.04.1_all.deb",
+  "sha256": "a1e7c7c7c066a128dd8f6ab1673f9656aa1ef55898e3902b7493bd9fa6e1c033",
+  "ok": true
+ },
+ "mariadb-server-10.3": {
+  "basename": "mariadb-server-10.3_10.3.31-0kylin0.20.04.1_amd64.deb",
+  "sha256": "2eb90b59299f4b0e6c13213510a0777d602c800e40e4106e6ac5ea961cae4a85",
+  "ok": true
+ },
+ "mariadb-server-core-10.3": {
+  "basename": "mariadb-server-core-10.3_10.3.31-0kylin0.20.04.1_amd64.deb",
+  "sha256": "6552603d964b383230b8d0019862a6e8c27cba7aa4df07e589f6aef15f6f4e29",
+  "ok": true
+ },
+ "mime-support": {
+  "basename": "mime-support_3.64kylin1_all.deb",
+  "sha256": "d2a6e36c0ee8367ef28cb6d082a9404df80f8440e459d619881bb3bd903fe94b",
+  "ok": true
+ },
+ "mount": {
+  "basename": "mount_2.34-0.1kylin16~rc1_amd64.deb",
+  "sha256": "6e77cdde8a72e7c0998d40438bdf5739f059e0465c34da687fadf68b74f04bfa",
+  "ok": true
+ },
+ "mtr": {
+  "basename": "mtr_0.93-1_amd64.deb",
+  "sha256": "e88e000c8e47696f710d000366c26bb294b4cdbb16177e8f9eb550ce41e921cb",
+  "ok": true
+ },
+ "mysql-common": {
+  "basename": "mysql-common_5.8+1.0.5kylin2k2_all.deb",
+  "sha256": "75e510f8d4ec55b53be777eec6ea48f99ae4080295bb26a27ab9b2e09a16c699",
+  "ok": true
+ },
+ "netbase": {
+  "basename": "netbase_6.1_all.deb",
+  "sha256": "daca0e568c6431eab19925a0abc8c506a24121d6c3519d6a7e48e630d5490a70",
+  "ok": true
+ },
+ "nginx": {
+  "basename": "nginx_1.18.0-0kylin1.2_all.deb",
+  "sha256": "150e08793123764818ddbe04413c26902e6b5fb8d1cb0f167b043f3798c4e837",
+  "ok": true
+ },
+ "nginx-common": {
+  "basename": "nginx-common_1.18.0-0kylin1.2_all.deb",
+  "sha256": "f11dd084854fb2b01d6a6f62865983fa853796ff87739cd9859878482ebac2d4",
+  "ok": true
+ },
+ "nginx-core": {
+  "basename": "nginx-core_1.18.0-0kylin1.2_amd64.deb",
+  "sha256": "1ea301fb18bd575b48f0f0df0482108f3e0153451f39e5bc6eaeb535cbd69449",
+  "ok": true
+ },
+ "openssl": {
+  "basename": "openssl_1.1.1f-1kylin2.12k1_amd64.deb",
+  "sha256": "3ca1d14029271a94f18a3ab04856712fe9ede47bd8b7b3c0b622916197491863",
+  "ok": true
+ },
+ "passwd": {
+  "basename": "passwd_4.8.1-1kylin5k14_amd64.deb",
+  "sha256": "b8d47a3f2472e11fe6a38ad64b51bfd3006001ebb5c146be43e5609727a1931a",
+  "ok": true
+ },
+ "pci.ids": {
+  "basename": "pci.ids_0.0~2020.03.20-kylin1k1_all.deb",
+  "sha256": "25c86e7153400ec69299244cb5ae0a86a82d976da4c5c27ee9aaa07814e0cc0c",
+  "ok": true
+ },
+ "perl": {
+  "basename": "perl_5.30.0-9build1kylin0k2_amd64.deb",
+  "sha256": "f982e2707038a3bb34944a18dac8ad0f3453ea684be2e7c9c14c2b5a286ca6e2",
+  "ok": true
+ },
+ "perl-base": {
+  "basename": "perl-base_5.30.0-9build1kylin0k2_amd64.deb",
+  "sha256": "26304da5223e39c6345d136d0bfe583708afa0fe356723c01e4ff54fc2c42f52",
+  "ok": true
+ },
+ "perl-modules-5.30": {
+  "basename": "perl-modules-5.30_5.30.0-9build1kylin0k2_all.deb",
+  "sha256": "bdf81f675d787ea7eda607368c47c7eb81351e52882bc1cfec4608f60900b59f",
+  "ok": true
+ },
+ "php-bcmath": {
+  "basename": "php-bcmath_7.4+75_all.deb",
+  "sha256": "c7bc872a28c1bf2fc143abc8198745fff42e5cbc3760e0343e1335f8b7f7c421",
+  "ok": true
+ },
+ "php-cli": {
+  "basename": "php-cli_7.4+75_all.deb",
+  "sha256": "741ae65728fa3bdc2c20ca7bc02a07c14127dbf7545a6afe116b756f2a3d3300",
+  "ok": true
+ },
+ "php-common": {
+  "basename": "php-common_75_all.deb",
+  "sha256": "d83f7ced447fe4caf56de586189153c816fab34ac9addfc5890d2631aba521cc",
+  "ok": true
+ },
+ "php-curl": {
+  "basename": "php-curl_7.4+75_all.deb",
+  "sha256": "16c11af2efdd449f09a6258bb12b463863331a47bf9d48d6ac6477584a158599",
+  "ok": true
+ },
+ "php-fpm": {
+  "basename": "php-fpm_7.4+75_all.deb",
+  "sha256": "0a35589205de226633c1a74e0dcca78af063afcd7c1870d49976ba5b479a67c6",
+  "ok": true
+ },
+ "php-gd": {
+  "basename": "php-gd_7.4+75_all.deb",
+  "sha256": "c2c936937a9c60cb8d45fa2100eb84c14afd0b1b4e7abfab51fa91dff88818e8",
+  "ok": true
+ },
+ "php-intl": {
+  "basename": "php-intl_7.4+75_all.deb",
+  "sha256": "a7f79a3e7d302b33dff22fbd3442d9eef893df3730945a3ec7d6662317d40342",
+  "ok": true
+ },
+ "php-ldap": {
+  "basename": "php-ldap_7.4+75_all.deb",
+  "sha256": "7392a4d13e2aaec3bf614b32e0e2b86716aa84708c3277477157213857171999",
+  "ok": true
+ },
+ "php-mbstring": {
+  "basename": "php-mbstring_7.4+75_all.deb",
+  "sha256": "53a1830d27cb8d6d1392410995181a0f0edfb132b6b31af0825cc88e77dff103",
+  "ok": true
+ },
+ "php-mysql": {
+  "basename": "php-mysql_7.4+75_all.deb",
+  "sha256": "c0ce93b95115506cb2794ed9f139ab67027b59e06ea4c99e3faef8e75f7e77e0",
+  "ok": true
+ },
+ "php-snmp": {
+  "basename": "php-snmp_7.4+75_all.deb",
+  "sha256": "2acc0bd748cffd2630ea4c9efabb7206511840fd58d09342ce0580c257611546",
+  "ok": true
+ },
+ "php-xml": {
+  "basename": "php-xml_7.4+75_all.deb",
+  "sha256": "22736340f6ff428f0862ae7cb66ca80aa0083d623f65dc79712427cd86a9ca34",
+  "ok": true
+ },
+ "php-zip": {
+  "basename": "php-zip_7.4+75_all.deb",
+  "sha256": "b4b289c48066a174c6b5122abce00f6ae81ac6f72b76c3aa856aafdcf02982e2",
+  "ok": true
+ },
+ "php7.4-bcmath": {
+  "basename": "php7.4-bcmath_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "16c14f9a4ea7a08cfebbb836df6f936cc8662663411cc2ce8a81bee4ec002ae2",
+  "ok": true
+ },
+ "php7.4-cli": {
+  "basename": "php7.4-cli_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "770c18cf19394c26e7eb1f578115c3b25b953522f79fc968ac3ef77e9a722097",
+  "ok": true
+ },
+ "php7.4-common": {
+  "basename": "php7.4-common_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "6581fb94c7e5e23d8fc81851b5358a18c3b7c66bbb95013d5bc6b4aad3c44d52",
+  "ok": true
+ },
+ "php7.4-curl": {
+  "basename": "php7.4-curl_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "2e04b9c16705bdb89d6e6ada20515a640afa5599d4bf1665866e849657facd57",
+  "ok": true
+ },
+ "php7.4-fpm": {
+  "basename": "php7.4-fpm_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "931b9bb54656e3128812bf1cd9bb4af78d27fe225a8f8bff3c6b6c6ecb382919",
+  "ok": true
+ },
+ "php7.4-gd": {
+  "basename": "php7.4-gd_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "2a1a0e47e980126dfc570aaeb922671cf12df929747f3546dc8254b9501619ca",
+  "ok": true
+ },
+ "php7.4-intl": {
+  "basename": "php7.4-intl_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "84bed7793b0fcc5b8248144b05c783284e112100e290789c3713fbf30c8f9d5e",
+  "ok": true
+ },
+ "php7.4-json": {
+  "basename": "php7.4-json_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "6f1ba3ee23ed13a9bedba8ac3f9e76db21b7caa6f82d8312a5d9791e1e01298b",
+  "ok": true
+ },
+ "php7.4-ldap": {
+  "basename": "php7.4-ldap_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "19c98aa46ef1932bf4d4bd45996be4a0154037e4c36fc68e8d2d793497ea14e4",
+  "ok": true
+ },
+ "php7.4-mbstring": {
+  "basename": "php7.4-mbstring_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "ca929a118dacc1c14b771df8737adc6a952d614dd9ba29542fe3be239b08a4f3",
+  "ok": true
+ },
+ "php7.4-mysql": {
+  "basename": "php7.4-mysql_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "6974ef695ac70a3712a4b451172d782a8dbf49590a1f98df35f83f21833cee3d",
+  "ok": true
+ },
+ "php7.4-opcache": {
+  "basename": "php7.4-opcache_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "40ab68348e7cc3a4ea4529e149ef1799f783e8ee9ba47d141e4508bdd2f2749c",
+  "ok": true
+ },
+ "php7.4-readline": {
+  "basename": "php7.4-readline_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "f7f2b117ca0a5b1c92997110e84bd9e2350fbb27857851d2f79c3313a125ef70",
+  "ok": true
+ },
+ "php7.4-snmp": {
+  "basename": "php7.4-snmp_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "23e49c1b8a2d8c55ab8cd8b5e76b633181bcad231ffd12202dcce77fd4746faa",
+  "ok": true
+ },
+ "php7.4-xml": {
+  "basename": "php7.4-xml_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "357124239bc7bd5787924c19941605d5a2cac4e75c33b43972462757dc317c08",
+  "ok": true
+ },
+ "php7.4-zip": {
+  "basename": "php7.4-zip_7.4.3-4kylin2.5_amd64.deb",
+  "sha256": "eeb4ec5b37a2997807d06f0a46653af706257a0ba1b911cb6ca32030e05a8ec6",
+  "ok": true
+ },
+ "policycoreutils": {
+  "basename": "policycoreutils_3.0-1k5_amd64.deb",
+  "sha256": "9975613cac3a8f7648d569007596030cf9443318e5a322c474d0dbe276b45534",
+  "ok": true
+ },
+ "psmisc": {
+  "basename": "psmisc_23.3-1_amd64.deb",
+  "sha256": "3dd1ce651429e620d76767ba1c0e52dde69facd372dc8f0e48d160a0aec27def",
+  "ok": true
+ },
+ "python-pip-whl": {
+  "basename": "python-pip-whl_20.0.2-5kylin1.5_all.deb",
+  "sha256": "0407ba188f91536a32ea2927b7d523b6a175e48e8a672d068672bab3929462e3",
+  "ok": true
+ },
+ "python3": {
+  "basename": "python3_3.8.2-0kylin2_amd64.deb",
+  "sha256": "e114115909e7d8ef092ea3fb78a7f852a0c5f91ead1b87bb1a5bf68776bddd68",
+  "ok": true
+ },
+ "python3-distutils": {
+  "basename": "python3-distutils_3.8.10-0kylin1~20.04_all.deb",
+  "sha256": "cb10e3bbcca63d83cfe71ed2c439315476e080cb98cd3d3142dc1e08f38298f9",
+  "ok": true
+ },
+ "python3-dotenv": {
+  "basename": "python3-dotenv_0.9.1-1_all.deb",
+  "sha256": "ff822a88f9f21b078f7fa509b3e34e2370d84ea8c651090d5210721bf11b2e73",
+  "ok": true
+ },
+ "python3-lib2to3": {
+  "basename": "python3-lib2to3_3.8.10-0kylin1~20.04_all.deb",
+  "sha256": "b14690c65696ea7d8db2a53a05476f5c615723173802d30b8b3f72196e46e111",
+  "ok": true
+ },
+ "python3-minimal": {
+  "basename": "python3-minimal_3.8.2-0kylin2_amd64.deb",
+  "sha256": "40d18cb1918d595f1a36041934b577376fadf7611737c8f9b0d10a4aff97e3f2",
+  "ok": true
+ },
+ "python3-pip": {
+  "basename": "python3-pip_20.0.2-5kylin1.5_all.deb",
+  "sha256": "5c1a7d58a614bca3fd66940a360d55e2d4905afd2bdb638903385891b9f40b10",
+  "ok": true
+ },
+ "python3-pkg-resources": {
+  "basename": "python3-pkg-resources_45.2.0-1_all.deb",
+  "sha256": "8f2af4438e7665f6ef3fbe3c0976341368a99da9c08e547c8c0976a9ef45599c",
+  "ok": true
+ },
+ "python3-psutil": {
+  "basename": "python3-psutil_5.5.1-1kylin4k1_amd64.deb",
+  "sha256": "32ae05e8c734beaa164ac30d28ed57fc0418f6ec47971e1cb03564e6b640c8d5",
+  "ok": true
+ },
+ "python3-pymysql": {
+  "basename": "python3-pymysql_0.9.3-2kylin3_all.deb",
+  "sha256": "779bbda56c2a682b33b17c0e19f63432f08b3993675a32725079108fc25e3c18",
+  "ok": true
+ },
+ "python3-redis": {
+  "basename": "python3-redis_3.3.11-2_all.deb",
+  "sha256": "1a68973254f9ce93ff4ea539c0cd6486ee62cfb4b0b8555f7ec11b3f232a0cb0",
+  "ok": true
+ },
+ "python3-setuptools": {
+  "basename": "python3-setuptools_45.2.0-1_all.deb",
+  "sha256": "00e2b5bb2ca41e32f18834380f84d61e0325dbd920f43b28ec389b9745041519",
+  "ok": true
+ },
+ "python3-wheel": {
+  "basename": "python3-wheel_0.34.2-1_all.deb",
+  "sha256": "3ed7847fedb24127f6b20de59c85733abc8e364175e4a0e4b05a669402bb808e",
+  "ok": true
+ },
+ "python3.8": {
+  "basename": "python3.8_3.8.2-1kylin1k7_amd64.deb",
+  "sha256": "977cdf2d19882b980b89547a0f4048bef429259a83704f9321286a61136eb79c",
+  "ok": true
+ },
+ "python3.8-minimal": {
+  "basename": "python3.8-minimal_3.8.2-1kylin1k7_amd64.deb",
+  "sha256": "03be51da382f6d409803f822a5559d525a880ed48d53f0abea24720283d087ef",
+  "ok": true
+ },
+ "readline-common": {
+  "basename": "readline-common_8.0-4_all.deb",
+  "sha256": "939b8e3934e73f327afdaa022c230aa5b70e79a4d663e4dd9d8ea75fed106860",
+  "ok": true
+ },
+ "rrdtool": {
+  "basename": "rrdtool_1.7.2-3build2_amd64.deb",
+  "sha256": "86b35b5680e8202385b7e8dc595a3fd5fd48f2c371c15d3044eeebb7c2beee18",
+  "ok": true
+ },
+ "rsync": {
+  "basename": "rsync_3.1.3-8kylin1k3_amd64.deb",
+  "sha256": "2c65f92dc04e6accbd78177c6902f8b1a28de8e24eccda48b77f3c770164eff0",
+  "ok": true
+ },
+ "sed": {
+  "basename": "sed_4.7-1_amd64.deb",
+  "sha256": "c543c6a4d290a99feb644ffa0082057c18618427716801c55f748207edfcefbb",
+  "ok": true
+ },
+ "selinux-utils": {
+  "basename": "selinux-utils_3.0-1kylin2k2_amd64.deb",
+  "sha256": "23c42c492bb51e913f3d33ed5b125303db7dbb5054f271818247c4e014e2d8ef",
+  "ok": true
+ },
+ "sensible-utils": {
+  "basename": "sensible-utils_0.0.12+nmu1_all.deb",
+  "sha256": "99cc8f71b8287f9245529ebb66db281fccd7ef11fca352751e1f109735bf9d9e",
+  "ok": true
+ },
+ "shared-mime-info": {
+  "basename": "shared-mime-info_1.15-1kylin0k1_amd64.deb",
+  "sha256": "831155e9fc1aa23b816453b44aa0dbf6504c162474b48c332042f57c31dd4e2e",
+  "ok": true
+ },
+ "snmp": {
+  "basename": "snmp_5.8+dfsg-2kylin2.3_amd64.deb",
+  "sha256": "30bc1a8510c345c00d6c482f7bf09c702f85f2673b6bcd4d2000feff21b8fcf8",
+  "ok": true
+ },
+ "snmpd": {
+  "basename": "snmpd_5.8+dfsg-2kylin2.3_amd64.deb",
+  "sha256": "5684e60c0733b2e00fb969e8e1ba4e47e6ad1bb5a8d3c189851a2120cce96015",
+  "ok": true
+ },
+ "socat": {
+  "basename": "socat_1.7.3.3-2_amd64.deb",
+  "sha256": "8d0cea218aa32480f3683702d2ac1bb1f8d24fab237e0d38d7c602f7137e5fe8",
+  "ok": true
+ },
+ "sqlite3": {
+  "basename": "sqlite3_3.31.1-4kylin0.2_amd64.deb",
+  "sha256": "347b54b581fe72c8ba10c48b05245c1faa913ca90589909e7cb2c5c20d4af853",
+  "ok": true
+ },
+ "systemd": {
+  "basename": "systemd_245.4-4kylin3.11k14_amd64.deb",
+  "sha256": "76e3978171602d0fa0bc8f9012e014acd9b8063e4d01f7a97344f6c80cc1d479",
+  "ok": true
+ },
+ "systemd-timesyncd": {
+  "basename": "systemd-timesyncd_245.4-4kylin3.11k14_amd64.deb",
+  "sha256": "8f43e0b26f16b4a614e8236a8e01c57a53277bc267460be0e7ab15e64895c86c",
+  "ok": true
+ },
+ "tar": {
+  "basename": "tar_1.30+dfsg-7kylin0.20.04.1_amd64.deb",
+  "sha256": "dcb5c0347fa3fa30f835e5ba6c6224fd000f1246ebc03415ea9f275f0bdf6598",
+  "ok": true
+ },
+ "tzdata": {
+  "basename": "tzdata_2021a-0kylin0.20.04.1_all.deb",
+  "sha256": "54c990c808035ccfcad96f0d4ff19bb8c2c57aff0b28fb275cf0d644713e1c56",
+  "ok": true
+ },
+ "ubuntu-mono": {
+  "basename": "ubuntu-mono_19.04-0kylin3_all.deb",
+  "sha256": "5da8391085e8e00ba81d8f2a520ae5b1a23c9961718ec51a2115215db35686dd",
+  "ok": true
+ },
+ "ucf": {
+  "basename": "ucf_3.0038+nmu1_all.deb",
+  "sha256": "0b8448c10079a594aa6b8e562bb7a918cfdee6bc0665c1642544d8b25feec573",
+  "ok": true
+ },
+ "util-linux": {
+  "basename": "util-linux_2.34-0.1kylin16~rc1_amd64.deb",
+  "sha256": "1312b62e9d6c9cf8f3c3498ca4bfbed4eaa2ed2672c0838196a27ccf88e9af96",
+  "ok": true
+ },
+ "whois": {
+  "basename": "whois_5.5.6_amd64.deb",
+  "sha256": "99061737a339de64cff68bec8c1e41f8395a7cbc5a379c72b09fedc44147efcf",
+  "ok": true
+ },
+ "zlib1g": {
+  "basename": "zlib1g_1.2.11.dfsg-2kylin1_amd64.deb",
+  "sha256": "309784cb515a914f7d8ac29c43c7b4c9720429363ca98c209fbf9bf7afac333b",
+  "ok": true
+ }
+}

@@ -1,0 +1,13 @@
+<?php
+// LibreNMS config.php 追加片段（离线部署脚本自动写入 /opt/librenms/config.php 末尾）
+// 数据库凭证、APP_URL、APP_KEY 由 .env 承载（部署脚本自动生成）
+
+$config['user'] = 'librenms';       // LibreNMS 运行用户
+$config['base_url'] = '/';          // 如需强制主机名/端口再自行调整
+
+// 离线部署：禁用自动更新（避免 daily.sh 触发 git 拉取）
+$config['update'] = 0;
+
+// 允许扫描的内网网段（按需启用）
+// $config['nets'][] = "10.0.0.0/8";
+// $config['nets'][] = "192.168.0.0/16";
